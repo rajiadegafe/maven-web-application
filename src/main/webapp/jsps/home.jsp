@@ -9,11 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to desyraj Web application new york Project.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automations.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	Class32 will start on April 15, 2023. </h1>
+<h1 align="center">My name is Raji Adegafe. I am a resourcesful and reliable person to work with.</h1>
+<h1 align="center">I have 7+ years in IT experience and many years of diverse experience in leadership and managing projects.
+	I am committed to deploy the best in me and always a team player. I am that employee you are always happy you got. i am an asset  </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
