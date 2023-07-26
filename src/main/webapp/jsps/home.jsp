@@ -30,7 +30,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mylandmarklogo.png" alt="" width="150">
+		<img src="images/DESYRAJlogo.png" alt="" width="350">
 	</span>
 	<span style="font-weight: bold;">
                 ADEGAFE RAJI, 
@@ -38,7 +38,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		3476045069
 		radegafe@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:radegafe@gmail.com">Mail to ADEGAFE RAJI</a>
 	</span>
 </div>
 <hr>
