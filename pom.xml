@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>aboutme</finalName>
+		<finalName>AboutMe</finalName>
 		
 		<plugins>
 			<plugin>
