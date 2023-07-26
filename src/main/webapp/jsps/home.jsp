@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>LandmarkTechnologies- Home Page</title>
+<title>desyraj- Home Page</title>
 <link href="images/mylandmarklogo.png" rel="icon">
 </head>
 </head>
@@ -45,8 +45,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> ADEGAFE RAJI - DEVOPS ENGR. Software Development</p>
-<p align=center><small>Copyrights 2018 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+
+<p align=center><small>Copyrights 2018 by <a href="http://desyraj.com/">desyraj</a> </small></p>
 
 </body>
 </html>
