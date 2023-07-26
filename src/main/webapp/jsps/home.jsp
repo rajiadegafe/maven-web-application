@@ -45,8 +45,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center> ADEGAFE RAJI - DEVOPS ENGR. Software Development</p>
+<p align=center><small>Copyrights 2018 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
 
 </body>
 </html>
