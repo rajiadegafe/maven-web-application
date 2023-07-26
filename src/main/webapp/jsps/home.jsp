@@ -51,7 +51,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 
-<p align=center><large>Copyrights 2018 by <a href="http://desyraj.com/">desyraj</a> </large></p>
+<p align=center><large>Copyrights 2018 by <a href="http://desyraj.com/">desyraj.com</a> </large></p>
 
 </body>
 </html>
