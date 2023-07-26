@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">My name is Raji Adegafe. I am a resourcesful and reliable person to work with.</h1>
-<h1 align="center">I have 7+ years experience in Software Development Solutions and many years of diverse experience in leadership and managing projects.
+<h1 align="center">I have 6+ years experience in Software Development Solutions and many years of diverse experience in leadership and managing projects.
 	I am committed to deploy the best in me and always a team player. I am that employee you are always happy you got. I am an asset. Thank you for your time.</h1>
 <hr>
 <br>
