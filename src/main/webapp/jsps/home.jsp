@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">My name is Raji Adegafe. I am a resourcesful and reliable person to work with.</h1>
-<h1 align="center">I have 4+ years in IT experience and many years of diverse experience in leadership and managing projects.
+<h1 align="center">I have 7+ years experience in Software Development Solutions and many years of diverse experience in leadership and managing projects.
 	I am committed to deploy the best in me and always a team player. I am that employee you are always happy you got. i am an asset. Thank you for your time.</h1>
 <hr>
 <br>
@@ -33,20 +33,25 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/DESYRAJlogo.png" alt="" width="350">
 	</span>
 	<span style="font-weight: bold;">
-                ADEGAFE RAJI, 
+                ADEGAFE RAJI
+
 		NEW YORK USA
+
 		3476045069
+
 		radegafe@gmail.com
+
 		<br>
+
 		<a href="mailto:radegafe@gmail.com">Mail to ADEGAFE RAJI</a>
 	</span>
 </div>
 <hr>
-	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
+	
 <hr>
 <hr>
 
-<p align=center><small>Copyrights 2018 by <a href="http://desyraj.com/">desyraj</a> </small></p>
+<p align=center><large>Copyrights 2018 by <a href="http://desyraj.com/">desyraj</a> </large></p>
 
 </body>
 </html>
